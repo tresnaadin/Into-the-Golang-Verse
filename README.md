@@ -1,3 +1,5 @@
+![Golang Gopher](https://secrethub.io/img/blog/go-gopher.png)
+
 # Go Language Learning
 Repository for Go Programming Language Learning Purpose
 
