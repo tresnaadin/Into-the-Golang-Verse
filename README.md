@@ -10,6 +10,7 @@ Repository for Go Programming Language Learning Purpose
 4. Docker Service from the webservice itself
 
 ## Tools
-1. Visual Studio Code
-2. "Go Extension" on Visual Studio Code extension
-3. "EditorConfig" on Visual Studio Code exension
+1. Go version 1.15
+2. Visual Studio Code
+3. "Go Extension" on Visual Studio Code extension
+4. "EditorConfig" on Visual Studio Code exension
